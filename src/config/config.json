@@ -1,0 +1,15 @@
+{
+  "app": {
+    "name": "starterkit",
+    "version": "0.1.0"
+  },
+  "server": {
+    "protocol": "http",
+    "hostname": "localhost",
+    "host": "localhost:3000",
+    "port": 3000,
+    "acceptable": [
+      "application/json"
+    ]
+  }
+}
